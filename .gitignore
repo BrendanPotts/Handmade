@@ -33,3 +33,5 @@
 
 # Other ignorable files
 *\build
+*\vs
+*\vscode
